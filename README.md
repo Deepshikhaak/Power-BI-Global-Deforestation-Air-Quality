@@ -4,7 +4,7 @@
 
 This project is an interactive **Power BI dashboard** that analyzes global environmental indicators, including deforestation, afforestation, air quality, CO₂ emissions, and life expectancy. The dashboard transforms raw environmental data into interactive visualizations that support data-driven decision-making.
 
-# Dataset
+## Dataset
 
 [global_air_quality_deforestation_dataset.csv](https://github.com/user-attachments/files/29635561/global_air_quality_deforestation_dataset.csv)
 
